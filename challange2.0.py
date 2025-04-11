@@ -34,5 +34,5 @@ while True:
         else:
             print(f"Huhu, {nama} sedih karena pengalaman kurang memuaskan :(")
         break
-    print ("\n Terima kasih telah menggunakan program ini")
+    print ("\n Terima kasih telah menggunakan Holiday Tracker!")
     break
